@@ -1,0 +1,6 @@
+owner=455202482168004609
+prefix=+
+game=The Gamers
+stayinchannel=true
+songinstatus=false
+token=NTk1OTU3MTkyODc2ODgzOTY4.XRying.DQCVOwahJZPcInUJT9TReIBec7w
